@@ -4,4 +4,5 @@ Tec. Univ. en Inteligencia Artificial
 Materia: Procesamiento del Lenguaje Natural 
 
 Usando la técnica RAG, creamos un ChatBot experto en combustible.
-También realizamos una investigación sobre Agentes.
+
+También realizamos una investigación sobre Agentes y planteamos una problemática a solucionar con un sistema multiagente.
